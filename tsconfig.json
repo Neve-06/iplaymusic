@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/page.js", "app/layout.jsxx", "app/album/page.jsx", "app/_components/SpotifyPlayer.jsx", "app/darkmode.jsx", "proxy.js"  ],
   "exclude": ["node_modules"]
 }
